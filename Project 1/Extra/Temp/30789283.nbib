@@ -1,0 +1,85 @@
+PMID- 30789283
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200622
+LR  - 20200622
+IS  - 1557-8666 (Electronic)
+IS  - 1066-5277 (Linking)
+VI  - 26
+IP  - 4
+DP  - 2019 Apr
+TI  - CuMiDa: An Extensively Curated Microarray Database for Benchmarking and Testing 
+      of Machine Learning Approaches in Cancer Research.
+PG  - 376-386
+LID - 10.1089/cmb.2018.0238 [doi]
+AB  - The employment of machine learning (ML) approaches to extract gene expression 
+      information from microarray studies has increased in the past years, specially on 
+      cancer-related works. However, despite this continuous interest in applying ML in 
+      cancer biomedical research, there are no curated repositories focused only on 
+      providing quality data sets exclusively for benchmarking and testing of such 
+      techniques for cancer research. Thus, in this work, we present the Curated 
+      Microarray Database (CuMiDa), a database composed of 78 handpicked microarray 
+      data sets for Homo sapiens that were carefully examined from more than 30,000 
+      microarray experiments from the Gene Expression Omnibus using a rigorous 
+      filtering criteria. All data sets were individually submitted to background 
+      correction, normalization, sample quality analysis and were manually edited to 
+      eliminate erroneous probes. All data sets were tested using principal component 
+      analysis (PCA) and t-distributed stochastic neighbor embedding (t-SNE) analyses 
+      to observe sample division and were additionally tested using various ML 
+      approaches to provide a base accuracy for the major techniques employed for 
+      microarray data sets. CuMiDa is a database created solely for benchmarking and 
+      testing of ML approaches applied to cancer research.
+FAU - Feltes, Bruno César
+AU  - Feltes BC
+AD  - Institute of Informatics, Federal University of Rio Grande do Sul, Porto Alegre, 
+      Brazil.
+FAU - Chandelier, Eduardo Bassani
+AU  - Chandelier EB
+AD  - Institute of Informatics, Federal University of Rio Grande do Sul, Porto Alegre, 
+      Brazil.
+FAU - Grisci, Bruno Iochins
+AU  - Grisci BI
+AD  - Institute of Informatics, Federal University of Rio Grande do Sul, Porto Alegre, 
+      Brazil.
+FAU - Dorn, Márcio
+AU  - Dorn M
+AD  - Institute of Informatics, Federal University of Rio Grande do Sul, Porto Alegre, 
+      Brazil.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20190221
+PL  - United States
+TA  - J Comput Biol
+JT  - Journal of computational biology : a journal of computational molecular cell 
+      biology
+JID - 9433358
+SB  - IM
+MH  - Benchmarking
+MH  - Computational Biology/methods
+MH  - Data Curation/*methods
+MH  - Gene Expression Profiling/*methods
+MH  - Humans
+MH  - Neoplasms/*genetics
+MH  - Oligonucleotide Array Sequence Analysis
+MH  - Principal Component Analysis
+MH  - Unsupervised Machine Learning
+OTO - NOTNLM
+OT  - benchmarking
+OT  - cancer
+OT  - classification
+OT  - curation
+OT  - machine learning
+OT  - microarray
+OT  - supervised learning
+OT  - unsupervised learning
+EDAT- 2019/02/23 06:00
+MHDA- 2020/06/23 06:00
+CRDT- 2019/02/22 06:00
+PHST- 2019/02/23 06:00 [pubmed]
+PHST- 2020/06/23 06:00 [medline]
+PHST- 2019/02/22 06:00 [entrez]
+AID - 10.1089/cmb.2018.0238 [doi]
+PST - ppublish
+SO  - J Comput Biol. 2019 Apr;26(4):376-386. doi: 10.1089/cmb.2018.0238. Epub 2019 Feb 
+      21.

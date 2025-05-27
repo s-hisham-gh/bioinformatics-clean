@@ -1,0 +1,14 @@
+%0 Journal Article
+%A Richard Dinga
+%A Brenda W.J.H. Penninx
+%A Dick J. Veltman
+%A Lianne Schmaal
+%A Andre F. Marquand
+%T Beyond accuracy: Measures for assessing machine learning models, pitfalls and guidelines
+%D 2019
+%R 10.1101/743138
+%J bioRxiv
+%P 743138
+%X Pattern recognition predictive models have become an important tool for analysis of neuroimaging data and answering important questions from clinical and cognitive neuroscience. Regardless of the application, the most commonly used method to quantify model performance is to calculate prediction accuracy, i.e. the proportion of correctly classified samples. While simple and intuitive, other performance measures are often more appropriate with respect to many common goals of neuroimaging pattern recognition studies. In this paper, we will review alternative performance measures and focus on their interpretation and practical aspects of model evaluation. Specifically, we will focus on 4 families of performance measures: 1) categorical performance measures such as accuracy, 2) rank based performance measures such as the area under the curve, 3) probabilistic performance measures based on quadratic error such as Brier score, and 4) probabilistic performance measures based on information criteria such as logarithmic score. We will examine their statistical properties in various settings using simulated data and real neuroimaging data derived from public datasets. Results showed that accuracy had the worst performance with respect to statistical power, detecting model improvement, selecting informative features and reliability of results. Therefore in most cases, it should not be used to make statistical inference about model performance. Accuracy should also be avoided for evaluating utility of clinical models, because it does not take into account clinically relevant information, such as relative cost of false-positive and false-negative misclassification or calibration of probabilistic predictions. We recommend alternative evaluation criteria with respect to the goals of a specific machine learning model.
+%U https://www.biorxiv.org/content/biorxiv/early/2019/08/22/743138.full.pdf
+

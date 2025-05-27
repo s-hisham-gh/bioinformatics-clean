@@ -1,0 +1,35 @@
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
+
+.ipynb_checkpoints
+/PBL 8/chest_xray
+Project 1/Data/Liver_GSE14520_U133A.csv
+Project 1/Data/Liver_GSE14520_U133A.csv
+Project 1/Data/Liver_GSE14520_U133A.csv
+PBL 8/archive.zip
+/Project 2/dataset
+Project 2/ISIC-images.zip
+Project 2/Hasan Muhammad Shahab BIOF2001 Project 2 Video.mp4
+/Project 2/TEMP
+*.pth

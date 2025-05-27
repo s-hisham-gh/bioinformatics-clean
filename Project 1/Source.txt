@@ -1,0 +1,11 @@
+https://sbcb.inf.ufrgs.br/cumida
+
+https://www.mdpi.com/2075-4418/13/4/708
+
+
+Graphs:
+- Overall Design
+- PCA Analysis
+- Table of Parameters
+- ROC Curves
+- Evauation Metrics (perhaps with mini eval matrix)

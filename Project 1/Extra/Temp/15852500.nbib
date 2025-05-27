@@ -1,0 +1,64 @@
+PMID- 15852500
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20050916
+LR  - 20220318
+IS  - 0219-7200 (Print)
+IS  - 0219-7200 (Linking)
+VI  - 3
+IP  - 2
+DP  - 2005 Apr
+TI  - Minimum redundancy feature selection from microarray gene expression data.
+PG  - 185-205
+AB  - How to selecting a small subset out of the thousands of genes in microarray data 
+      is important for accurate classification of phenotypes. Widely used methods 
+      typically rank genes according to their differential expressions among phenotypes 
+      and pick the top-ranked genes. We observe that feature sets so obtained have 
+      certain redundancy and study methods to minimize it. We propose a minimum 
+      redundancy - maximum relevance (MRMR) feature selection framework. Genes selected 
+      via MRMR provide a more balanced coverage of the space and capture broader 
+      characteristics of phenotypes. They lead to significantly improved class 
+      predictions in extensive experiments on 6 gene expression data sets: NCI, 
+      Lymphoma, Lung, Child Leukemia, Leukemia, and Colon. Improvements are observed 
+      consistently among 4 classification methods: Naive Bayes, Linear discriminant 
+      analysis, Logistic regression, and Support vector machines. SUPPLIMENTARY: The 
+      top 60 MRMR genes for each of the datasets are listed in 
+      http://crd.lbl.gov/~cding/MRMR/. More information related to MRMR methods can be 
+      found at http://www.hpeng.net/.
+FAU - Ding, Chris
+AU  - Ding C
+AD  - Computational Research Division, Lawrence Berkeley National Laboratory, 
+      University of California, Berkeley, CA 94720, USA. chqding@lbl.gov
+FAU - Peng, Hanchuan
+AU  - Peng H
+LA  - eng
+GR  - R01 GM70444-01/GM/NIGMS NIH HHS/United States
+PT  - Comparative Study
+PT  - Evaluation Study
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+PT  - Research Support, U.S. Gov't, P.H.S.
+PL  - Singapore
+TA  - J Bioinform Comput Biol
+JT  - Journal of bioinformatics and computational biology
+JID - 101187344
+SB  - IM
+MH  - *Algorithms
+MH  - Discriminant Analysis
+MH  - Gene Expression Profiling/*methods
+MH  - Oligonucleotide Array Sequence Analysis/*methods
+MH  - Pattern Recognition, Automated/*methods
+EDAT- 2005/04/27 09:00
+MHDA- 2005/09/17 09:00
+CRDT- 2005/04/27 09:00
+PHST- 2003/10/01 00:00 [received]
+PHST- 2004/06/16 00:00 [accepted]
+PHST- 2004/06/16 00:00 [revised]
+PHST- 2005/04/27 09:00 [pubmed]
+PHST- 2005/09/17 09:00 [medline]
+PHST- 2005/04/27 09:00 [entrez]
+AID - S0219720005001004 [pii]
+AID - 10.1142/s0219720005001004 [doi]
+PST - ppublish
+SO  - J Bioinform Comput Biol. 2005 Apr;3(2):185-205. doi: 10.1142/s0219720005001004.

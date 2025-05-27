@@ -1,0 +1,13 @@
+%0 Conference Paper
+%T XGBoost: A Scalable Tree Boosting System
+%@ 9781450342322
+%U https://doi.org/10.1145/2939672.2939785
+%R 10.1145/2939672.2939785
+%B Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining
+%I Association for Computing Machinery
+%A Tianqi Chen
+%A Carlos Guestrin
+%D 2016
+%P 785–794
+%K large-scale machine learning
+%C San Francisco, California, USA
